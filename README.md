@@ -10,20 +10,20 @@
 [img_codefactor]: https://www.codefactor.io/repository/github/mrgaton/CloudStorageModifier/badge
 [img_license]: https://img.shields.io/github/license/Mrgaton/CloudStorageModifier.svg?style=flat
 
-Fortnite Cloud Manager is a program that connects to your Epic Games account and lets you manage your Fortnite data stored in the cloud. You can view, edit, delete, and download your Fortnite data, such as your game progress, settings, preferences, replays, screenshots, and more. You can also upload your own data to the cloud and sync it across your devices.
+Fortnite Cloud Manager es un programa que se conecta a tu cuenta de Epic Games y te permite administrar tus datos de Fortnite almacenados en la nube. Puedes ver, editar, eliminar y descargar tus datos de Fortnite, como tu progreso en el juego, configuración, preferencias, repeticiones, capturas de pantalla y más. También puedes subir tus propios datos a la nube y sincronizarlos en tus dispositivos.
 
-## Features
+## Características
 
-- View your Fortnite data in the cloud and see the details of each file
-- Edit your Fortnite data in the cloud and save the changes
-- Delete your Fortnite data in the cloud and free up space (coming soon)
-- Download your Fortnite data from the cloud and store it locally
-- Upload your Fortnite data to the cloud and sync it with your account
+- Consulta tus datos de Fortnite en la nube y consulta los detalles de cada archivo
+- Edita tus datos de Fortnite en la nube y guarda los cambios
+- Elimina tus datos de Fortnite en la nube y libera espacio (próximamente)
+- Descarga tus datos de Fortnite de la nube y almacénalos localmente
+- Sube tus datos de Fortnite a la nube y sincronízalos con tu cuenta
 
-## Usage
+## Uso
 
-Open the program click a button and login on the browser
+Abre el programa, haz clic en un botón e inicia sesión en el navegador.
 
-## Disclaimer
+## Aviso legal
 
-Fortnite Cloud Manager is not affiliated with or endorsed by Epic Games or Fortnite. Use this program at your own risk. We are not responsible for any data loss or damage that may occur from using this program.
+Fortnite Cloud Manager no está afiliado ni respaldado por Epic Games ni Fortnite. Usa este programa bajo tu propia responsabilidad. No nos hacemos responsables de ninguna pérdida o daño de datos que pueda ocurrir por su uso.
